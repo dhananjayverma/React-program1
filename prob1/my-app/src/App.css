@@ -1,11 +1,23 @@
 .App {
   text-align: center;
+  /* background-color: teal; */
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+button{
+  display: inline-block;
+  background-color: #7b38d8;
+  border-radius: 10px;
+  border: 4px double #cccccc;
+  color: #eeeeee;
+  text-align: center;
+  font-size: 28px;
+  padding: 20px;
+  width:200px;
 }
+button:hover{
+  background-color: darkcyan;
+}
+
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {

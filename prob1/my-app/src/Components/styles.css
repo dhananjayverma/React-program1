@@ -1,0 +1,56 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  .heading {
+    display: flex;
+    gap: 90px;
+  }
+  .mainDiv {
+    display: flex;
+    width: 68%;
+    margin: auto;
+  }
+  .mainDiv > img {
+    width: 19%;
+    border-radius: 50%;
+    margin-top: 30px;
+    height: 184px;
+  }
+  .heading button {
+    height: 25px;
+    margin-top: 26px;
+    color: white;
+    background-color: #5d5b5b;
+    border-radius: 7px;
+    padding: 0px 10px;
+    border: none;
+  }
+  h3 {
+    text-align: left;
+    margin-top: 0px;
+    color: rgb(213, 47, 255);
+  }
+  .profileImage {
+    border-radius: 50%;
+  }
+  .skillItem {
+    padding: 3px;
+    border-radius: 12%;
+    margin: 5px;
+    font-size: 12px;
+    font-weight: 500;
+    border: 1px solid #e7e2e2;
+  }
+  .skillItem img {
+    width: 16px;
+    height: 14px;
+  }
+  .displayFlex {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  h1 {
+    color: blue;
+  }
+  
