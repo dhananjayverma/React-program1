@@ -1,0 +1,8 @@
+.myPost{
+    border: 1px solid;
+    margin: 5px;
+    border-radius: 5px;
+    padding: auto;
+    background-color:teal;
+    color: turquoise;
+}
